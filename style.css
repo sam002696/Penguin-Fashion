@@ -10,3 +10,24 @@ border-radius: 10px;
     width: 500px;
     height: 530px;
 }
+.penguin-icon{
+  width: 78px;
+  /* height: 82px; */
+}
+/* .penguin-shopping{
+    width:  599px;
+    height: 354.07px;
+} */
+/* Media Queries  */
+@media only screen and (max-width:688px) {
+    /* logos and images  */
+    .penguin-icon{
+        width: 292.67px;
+        /* height: 173px; */
+        /* padding: 2rem; */
+    }
+    /* .image-grid{
+         order: -9999;
+    } */
+
+}
